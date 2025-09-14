@@ -128,14 +128,14 @@ System design patterns are reusable solutions to common problems encountered whe
 
 **Example**: In an online auction system, locking might prevent two users from bidding on the same item simultaneously, ensuring the highest bid wins.
 
-### References
+### Learn More
 
-- [OpenSourceHow to approach System Design?](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question)
-- [articleWhat are system design questions?](https://www.hiredintech.com/system-design)
-- [articleMy System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
-- [videoIntro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 - [Learn System Design concepts: Thirty Concepts](/Thirty_System_Design_Concepts.md)
+- [System Design Principles](./System_Design_Principles.md)
 - [Case Studies](./Case_Studies.md)
+- [PlayBook](./playbook/System%20Design%20Playbook.pdf)
+- [Roadmap]([[System Design - Roadmap.sh]])
+- [More Resources](./Resources.md)
 
 ## System Design Interview
 

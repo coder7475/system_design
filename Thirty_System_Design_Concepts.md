@@ -1,4 +1,6 @@
-Find video: [30 Concepts](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
+## 30 System Design Concepts
+
+[![](SystemDesign.jpg)]
 
 30 Blogs to Learn 30 System Design Concepts:
 
@@ -32,3 +34,8 @@ Find video: [30 Concepts](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
 28. Batch vs Stream Processing: [https://lnkd.in/gKtj_qWh](https://lnkd.in/gKtj_qWh)
 29. Strong vs. Eventual Consistency: [https://lnkd.in/gCc5cNdE](https://lnkd.in/gCc5cNdE)
 30. REST vs GraphQL: [https://lnkd.in/gM5VHKQS](https://lnkd.in/gM5VHKQS)
+
+## References
+
+- Find video: [30 Concepts](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
+- [Blog](https://blog.algomaster.io/p/30-system-design-concepts)
