@@ -134,7 +134,7 @@ System design patterns are reusable solutions to common problems encountered whe
 - [System Design Principles](./System_Design_Principles.md)
 - [Case Studies](./Case_Studies.md)
 - [PlayBook](./playbook/System%20Design%20Playbook.pdf)
-- [Roadmap]([[System Design - Roadmap.sh]])
+- [Roadmap](https://roadmap.sh/system-design)
 - [More Resources](./Resources.md)
 
 ## System Design Interview
