@@ -26,7 +26,7 @@ There are several steps that can be taken when approaching a system design:
 
 ## Common Patterns
 
-System design patterns are reusable solutions to common problems encountered when building large-scale software systems. These patterns help engineers create systems that are scalable, reliable, and efficient. Below, I’ll explain the common system design patterns mentioned in your query in a beginner-friendly way, using clear and structured explanations while maintaining a formal tone. Each pattern addresses a specific challenge, such as handling millions of users, processing data in real time, or managing complex tasks. I’ll also incorporate the context from the provided links while keeping the explanations accessible.
+System design patterns are reusable solutions to common problems encountered when building large-scale software systems. These patterns help engineers create systems that are scalable, reliable, and efficient. Below, Each pattern addresses a specific challenge, such as handling millions of users, processing data in real time, or managing complex tasks.
 
 ---
 
@@ -219,6 +219,7 @@ Questions:
 - Define expectations from the system explicitly
 - Examples:
   - Create a User
+
   ```sh
   POST /users {email: string, passowrd: string}
   ```
@@ -231,8 +232,8 @@ Questions:
 
 - Identify system components (servers, caching, load balancers, API gateway etc) needed to solve our problem and draft first design of our system
 - Questions
-	- "Is it best to design a monolithic or a microservices architecture?
-	- "What are type of database should we use?"
+ - "Is it best to design a monolithic or a microservices architecture?
+ - "What are type of database should we use?"
 
 Once basic diagram is created, start discussing with the interviewer.
 
@@ -242,20 +243,20 @@ Once basic diagram is created, start discussing with the interviewer.
 - Discuss with interviewer if any component need further improvements, or any additional features the system might be able to support though optional
 - Demonstrate your experience in the areas of your expertise: Present different approaches, advantages and disadvantages, explain your decision and back them up with examples
 - Questions Examples:
-	- "How should we partition our data?"
-	- "What about load distribution?"
-	- "Should we use cache?"
-	- "How will we handle a sudden spike in traffic?"
+ - "How should we partition our data?"
+ - "What about load distribution?"
+ - "Should we use cache?"
+ - "How will we handle a sudden spike in traffic?"
 
 ### 7. Identify and Resolve bottlenecks
 
 - Discuss bottlenecks and approaches to mitigate them.
 - Important questions to ask:
-	- "Do we have enough database replicas?"
-	- "Is there any single point of failure?**"
-	- "Is database sharding required?"
-	- "How can we make our system more robust?"
-	- "How to improve availability of our cache?"
+ - "Do we have enough database replicas?"
+ - "Is there any single point of failure?**"
+ - "Is database sharding required?"
+ - "How can we make our system more robust?"
+ - "How to improve availability of our cache?"
 
 Make sure to read engineering blog of the company you're interviewing with. This will help you get a sense of technology stack they are using and which problems are important to them.
 
