@@ -10,6 +10,18 @@ In software engineering, system design is a phase in the software development pr
 
 It is also one of the important aspects of the interview process for software engineers. Most of the companies have a dedicated system design interview round, where they ask the candidates to design a system for a given problem statement. The candidates are expected to come up with a detailed design of the system, including the architecture, components, and their interactions. They are also expected to discuss the trade-offs involved in their design and the alternatives that they considered.
 
+## 🚀 Quick Navigation
+
+| Resource | Description |
+|----------|-------------|
+| [📋 System Design Interview](./System_Design_Interview.md) | Complete interview guide with structure and tips |
+| [📖 30 Essential Concepts](./Thirty_System_Design_Concepts.md) | Key concepts every engineer should master |
+| [🏗️ Design Principles](./System_Design_Principles.md) | Fundamental principles and best practices |
+| [📊 Case Studies](./Case_Studies.md) | Real-world system design examples |
+| [📘 Playbook (PDF)](./playbook/System%20Design%20Playbook.pdf) | Comprehensive reference guide |
+| [🔗 Additional Resources](./Resources.md) | Curated external resources |
+| [🖼️ Visual Overview](./SystemDesign.jpg) | System design diagram reference |
+
 ## How To: System Design?
 
 There are several steps that can be taken when approaching a system design:
@@ -130,12 +142,19 @@ System design patterns are reusable solutions to common problems encountered whe
 
 ### Learn More
 
-- [Learn System Design concepts: Thirty Concepts](/Thirty_System_Design_Concepts.md)
-- [System Design Principles](./System_Design_Principles.md)
-- [Case Studies](./Case_Studies.md)
-- [PlayBook](./playbook/System%20Design%20Playbook.pdf)
-- [Roadmap](https://roadmap.sh/system-design)
-- [More Resources](./Resources.md)
+#### 📚 Core Learning Materials
+- [📖 System Design Concepts: Thirty Essential Concepts](./Thirty_System_Design_Concepts.md) - Key concepts every engineer should know
+- [🏗️ System Design Principles](./System_Design_Principles.md) - Fundamental principles and best practices
+- [📋 System Design Interview Guide](./System_Design_Interview.md) - Complete interview preparation guide
+- [📊 Case Studies](./Case_Studies.md) - Real-world system design examples
+
+#### 📖 Reference Materials
+- [📘 System Design Playbook](./playbook/System%20Design%20Playbook.pdf) - Comprehensive PDF guide
+- [🔗 Additional Resources](./Resources.md) - Curated collection of external resources
+- [🖼️ System Design Overview](./SystemDesign.jpg) - Visual system design reference
+
+#### 🌐 External Resources
+- [🗺️ System Design Roadmap](https://roadmap.sh/system-design) - Learning path and roadmap
 
 ## System Design Interview
 
