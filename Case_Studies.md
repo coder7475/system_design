@@ -1,58 +1,107 @@
-If you want to master system design (in 1 month or less), learn these case studies:
+# 📊 System Design Case Studies
 
-1 How Meta Achieves 99.99999999% Cache Consistency  
-↳ [https://lnkd.in/e88kUZAm](https://lnkd.in/e88kUZAm)
+> Master system design through real-world examples from industry leaders
 
-2 How to Scale an App to 10 Million Users on AWS  
-↳ [https://lnkd.in/eU736g9Q](https://lnkd.in/eU736g9Q)
+This collection features 15 essential case studies that demonstrate how major tech companies solve complex scaling and architecture challenges. Each case study provides practical insights into system design patterns, trade-offs, and implementation strategies.
 
-3 How Amazon S3 Achieves 99.999999999% Durability  
-↳ [https://lnkd.in/eutGiK35](https://lnkd.in/eutGiK35)
+---
 
-4 Real-Time Gaming Leaderboard Architecture  
-↳ [https://lnkd.in/edfTDq5R](https://lnkd.in/edfTDq5R)
+## 🎯 How to Use This Guide
 
-5 How Uber Finds Nearby Drivers at 1 Million Requests per Second  
-↳ [https://lnkd.in/eeqH9Hjh](https://lnkd.in/eeqH9Hjh)
+- **For Beginners**: Start with basic scaling patterns (AWS scaling, Load Balancing)
+- **For Interviews**: Focus on high-traffic systems (Uber, Facebook, YouTube)
+- **For Deep Learning**: Study consistency and reliability patterns (Meta, Amazon S3)
 
-6 Bsky Architecture  
-↳ [https://lnkd.in/eEhB8V_k](https://lnkd.in/eEhB8V_k)
+---
 
-7 Slack Architecture  
-↳ [https://lnkd.in/eATMDjrK](https://lnkd.in/eATMDjrK)
+## 📈 Scaling & Performance
 
-8 How Uber Computes ETA at Half a Million Requests per Second  
-↳ [https://lnkd.in/eVKV2ePC](https://lnkd.in/eVKV2ePC)
+### 🚀 High-Traffic Systems
 
-9 Distributed Counter Architecture  
-↳ [https://lnkd.in/eGwaA62J](https://lnkd.in/eGwaA62J)
+| Case Study | Scale | Key Learning |
+|------------|-------|-------------|
+| [**How to Scale an App to 10 Million Users on AWS**](https://lnkd.in/eU736g9Q) | 10M users | AWS scaling strategies and architecture patterns |
+| [**How Uber Finds Nearby Drivers at 1M RPS**](https://lnkd.in/eeqH9Hjh) | 1M req/sec | Location-based services and geospatial indexing |
+| [**How Uber Computes ETA at 500K RPS**](https://lnkd.in/eVKV2ePC) | 500K req/sec | Real-time computation at scale |
+| [**How YouTube Supports 2.49B Users with MySQL**](https://lnkd.in/efmJw4Dx) | 2.49B users | Database scaling with traditional SQL |
+| [**How Tinder Scaled to 1.6B Swipes per Day**](https://lnkd.in/en65fv-W) | 1.6B swipes/day | Matching algorithms and data processing |
+| [**Facebook's Software Load Balancer for 1B Users**](https://lnkd.in/egxWtYHT) | 1B users | Load balancing strategies and traffic distribution |
 
-10 How YouTube Was Able to Support 2.49 Billion Users With MySQL  
-↳ [https://lnkd.in/efmJw4Dx](https://lnkd.in/efmJw4Dx)
+---
 
-11 Pastebin Architecture  
-↳ [https://lnkd.in/eZpfaVjc](https://lnkd.in/eZpfaVjc)
+## 🔄 Consistency & Reliability
 
-12 How Stripe Prevents Double Payment Using Idempotent API  
-↳ [https://lnkd.in/erMkqwq4](https://lnkd.in/erMkqwq4)
+### 🛡️ Data Integrity Systems
 
-13 How Tinder Scaled to 1.6 Billion Swipes per Day  
-↳ [https://lnkd.in/en65fv-W](https://lnkd.in/en65fv-W)
+| Case Study | Reliability | Key Learning |
+|------------|-------------|-------------|
+| [**How Meta Achieves 99.99999999% Cache Consistency**](https://lnkd.in/e88kUZAm) | 99.99999999% | Cache invalidation and consistency patterns |
+| [**Amazon S3's 99.999999999% Durability**](https://lnkd.in/eutGiK35) | 99.999999999% | Data replication and fault tolerance |
+| [**Stripe's Idempotent API for Payment Safety**](https://lnkd.in/erMkqwq4) | Financial grade | Preventing duplicate operations |
 
-14 How Facebook Was Able to Support a Billion Users Via Software Load Balancer  
-↳ [https://lnkd.in/egxWtYHT](https://lnkd.in/egxWtYHT)
+---
 
-15 How Apple AirTags Work  
-↳ [https://lnkd.in/ec75eiCH](https://lnkd.in/ec75eiCH)
+## 🏗️ Architecture Patterns
 
-What else should make this list?
+### 💬 Communication & Social Platforms
 
-——
+| Case Study | Type | Key Learning |
+|------------|------|-------------|
+| [**Slack Architecture**](https://lnkd.in/eATMDjrK) | Team communication | Real-time messaging at enterprise scale |
+| [**Bluesky (Bsky) Architecture**](https://lnkd.in/eEhB8V_k) | Social network | Decentralized social media design |
 
-👋 PS - Join 100,000 and get the powerful system design template (it's free):  
-→ [https://lnkd.in/eWAp5ZwE](https://lnkd.in/eWAp5ZwE)
+### 🎮 Real-Time Systems
 
-———
+| Case Study | Domain | Key Learning |
+|------------|--------|-------------|
+| [**Real-Time Gaming Leaderboard**](https://lnkd.in/edfTDq5R) | Gaming | Live ranking and real-time updates |
+| [**Distributed Counter Architecture**](https://lnkd.in/eGwaA62J) | Distributed systems | Handling concurrent increments |
 
-♻ Repost to help others find this post  
-➕ Follow [](https://www.linkedin.com/in/ACoAAEALjXEBnGWKup7Y3FjFIJ1ocWkZGqToedo)[Neo Kim](https://www.linkedin.com/in/nk-systemdesign-one/)
+### 🔧 Utility Services
+
+| Case Study | Service Type | Key Learning |
+|------------|--------------|-------------|
+| [**Pastebin Architecture**](https://lnkd.in/eZpfaVjc) | Content sharing | Simple yet scalable text storage |
+| [**How Apple AirTags Work**](https://lnkd.in/ec75eiCH) | IoT/Hardware | Device tracking and privacy |
+
+---
+
+## 📚 Learning Path Recommendations
+
+### 🎯 For System Design Interviews
+1. **Start Here**: AWS Scaling (foundational concepts)
+2. **Core Patterns**: Meta Cache Consistency, Amazon S3 Durability
+3. **High-Scale Examples**: Uber (location services), YouTube (database scaling)
+4. **Advanced Topics**: Stripe (idempotency), Facebook (load balancing)
+
+### 🔍 By System Design Pattern
+- **Caching**: Meta Cache Consistency
+- **Database Scaling**: YouTube MySQL, Amazon S3
+- **Load Balancing**: Facebook Software LB
+- **Real-time Systems**: Gaming Leaderboard, Slack
+- **Geospatial**: Uber Driver Matching
+- **Financial Systems**: Stripe Payments
+
+---
+
+## 🤝 Contributing
+
+**Missing a crucial case study?** We're always looking to expand this collection with more real-world examples. Consider cases involving:
+- Microservices architecture
+- Event-driven systems
+- Machine learning at scale
+- Global CDN strategies
+- Database sharding patterns
+
+---
+
+## 📖 Additional Resources
+
+- [System Design Template](https://lnkd.in/eWAp5ZwE) - Free comprehensive template
+- [Back to Main Guide](./README.md) - Return to the main system design guide
+- [System Design Principles](./System_Design_Principles.md) - Core principles and patterns
+- [30 Essential Concepts](./Thirty_System_Design_Concepts.md) - Key concepts to master
+
+---
+
+*Originally curated by [Neo Kim](https://www.linkedin.com/in/nk-systemdesign-one/) - System Design Expert*
