@@ -1,4 +1,10 @@
 ## Resources
+0. System Design in a Hurry
+  -> Hello Interview: https://www.hellointerview.com/learn/system-design/in-a-hurry/patterns
+
+1. blogs: https://blogs.iamdhakrey.dev/
+2. system design school: https://systemdesignschool.io/problems/leetcode/solution
+3. algomaster: https://algomaster.io/learn/system-design/what-is-system-design
 
 1. System Design Primer  
    → Comprehensive from basics to advanced  
